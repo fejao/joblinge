@@ -22,7 +22,7 @@ def f3(var):
         print("zahler = %d" % zahler)
         zahler = zahler + 1
 
-def f4(var):
+def f5(var):
     zahler = 1
     while(zahler <= var):
         print("zahler = %d" % zahler)
