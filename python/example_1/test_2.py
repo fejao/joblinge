@@ -27,3 +27,9 @@ def f5(var):
     while(zahler <= var):
         print("zahler = %d" % zahler)
         zahler = zahler + 1
+
+def f6(var):
+    zahler = 2
+    while(zahler <= var):
+        print("zahler = %d" % zahler)
+        zahler = zahler + 1
