@@ -37,3 +37,9 @@ def f99(v1, v2):
         print "GLEICH"
     else:
         print "NICHT GLEICH"
+
+def f19(v1, v2):
+    if v1 == v2:
+        print "GLEICH"
+    else:
+        print "NICHT GLEICH"
