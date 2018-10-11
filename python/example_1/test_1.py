@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 
 def f1(var1, var2):
     return var1 + var2
@@ -9,9 +9,25 @@ def f2 (v1, v2):
     else:
         return v2
 
+def f2_2 (v1, v2):
+    if v1 > v2:
+        return v1
+    elif v1 == v2:
+        return ("%d ist gleich %d" % (v1, v2))
+    else:
+        return v2
+
 def f3 (v1, v2):
     if len(v1) > len(v2):
         return v1
+    else:
+        return v2
+
+def f3_2 (v1, v2):
+    if len(v1) > len(v2):
+        return v1
+    elif len(v1) == len(v2):
+        return ("len(%s) ist gleich len(%s)" % (v1, v2))
     else:
         return v2
 
@@ -43,3 +59,7 @@ def f19(v1, v2):
         print "GLEICH"
     else:
         print "NICHT GLEICH"
+
+# print (f3(2,3))
+print (f3("aa bb","bb aa"))
+print (f3("bb","aa"))

@@ -1,6 +1,12 @@
+#!/usr/bin/env python
+
 def f1(v1):
     for i in range(0, v1):
         print("i = %d" % i)
+
+def f1_1(v1):
+    for zahler in range(0, v1):
+        print("zahler = %d" % zahler)
 
 # def f2(5):
 #     for i in range(1, (5 + 1)):
@@ -27,3 +33,11 @@ def f5(var):
     while(zahler <= var):
         print("zahler = %d" % zahler)
         zahler = zahler + 1
+
+f1(5)
+print("---------")
+f2(5)
+print("---------")
+f3(5)
+print("---------")
+f5(5)
