@@ -1,4 +1,4 @@
-![Joblinge Javascript logo](pics/logo_joblinge_javascript.png?raw=true "Joblinge Javascript logo")
+![Joblinge Javascript Logo](logo_joblinge_javascript.png?raw=true "Joblinge Javascript logo")
 
 [![License GLP3](https://img.shields.io/badge/license-GPL3-red.svg)](LICENSE.md)
 [![HitCount](http://hits.dwyl.io/fejao/joblinge/javascript.svg)](http://hits.dwyl.io/fejao/joblinge/javascript)
@@ -10,7 +10,7 @@ Beispiele mit Javascript
 _____________________________________________
 
 - ## Beispiel 01
-  Beispiel mit dem **Web-Broser**
+  Beispiel mit dem [Web-browser](example_01_browser/README.md)
 
 - ## Beispiel 02
   Beispiel mit **Variablen**
