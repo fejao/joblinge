@@ -7,7 +7,6 @@ Javascript example 01: Web-browser
 Beispiel mit dem **Web-browser**
 _____________________________________________
 
-# O
 Zur Verwendung dieses Beispiels sollten Sie die Datei "index.html" in Ihrem Browser öffnen
 Bitte vergiss nicht den absoluten Pfad zu benutzen
 
