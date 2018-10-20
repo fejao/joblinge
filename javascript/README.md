@@ -10,7 +10,10 @@ Beispiele mit Javascript
 _____________________________________________
 
 - ## Beispiel 01
+  Beispiel mit dem [Web-browser](example_01_browser/README.md)
+  Beispiel mit dem [Web-browser](example_01_browser/)
   Beispiel mit dem [Web-browser](./example_01_browser/README.md)
+  Beispiel mit dem [Web-browser](./example_01_browser/)
 
 - ## Beispiel 02
   Beispiel mit **Variablen**
