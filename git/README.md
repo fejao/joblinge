@@ -19,4 +19,4 @@ _____________________________________________
   ```
 
 - ## Beispiele
-  Beispiel mit dem [Web-browser](examples/)
+  Alle [Git Beispiele](examples/)
